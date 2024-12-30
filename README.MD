@@ -4,6 +4,8 @@
 This interactive dashboard analyzes average ratings from British Airways customers for various aspects of their travel experience, covering data from May 2015 to October 2023.
 
 ---
+![British-airway](src/British-Airway0.png)
+---
 
 ## Features and Components
 

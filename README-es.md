@@ -4,6 +4,8 @@
 Este panel interactivo analiza las calificaciones promedio de los clientes de British Airways en varios aspectos de su experiencia de viaje, y cubre datos desde mayo de 2015 hasta octubre de 2023.
 
 ---
+![British-airway](src/British-Airway0.png)
+---
 
 ## Características y componentes
 
